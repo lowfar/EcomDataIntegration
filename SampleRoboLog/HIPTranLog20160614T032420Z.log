@@ -1,0 +1,44 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 14 June 2016 16:24:20
+   Source : D:\DBA\TranA\
+     Dest : Y:\mamasnpapas-uk\MPTestFolder\
+
+    Files : *.*
+	    
+  Options : *.* /DCOPY:DA /COPY:DAT /MOV /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  18	D:\DBA\TranA\
+	    New File  		       0	HIPTest4.txt100%  
+	    New File  		    1477	HIPTranLog20160614T012441Z  0%  100%  
+	    New File  		    1477	HIPTranLog20160614T014225Z  0%  100%  
+	    New File  		    1477	HIPTranLog20160614T022029Z  0%  100%  
+	    New File  		    1445	HIPTranLog20160614T030414Z  0%  100%  
+	    New File  		    1445	HIPTranLog20160614T030619Z  0%  100%  
+	    New File  		    1137	HIPTranLog20160614T084257Z  0%  100%  
+	    New File  		     860	HIPTranLog20160614T084627Z  0%  100%  
+	    New File  		    1132	HIPTranLog20160614T085322Z  0%  100%  
+	    New File  		    3920	HIPTranLog20160614T085718Z  0%  100%  
+	    New File  		    1241	HIPTranLog20160614T111519Z  0%  100%  
+	    New File  		    1477	HIPTranLog20160614T111728Z  0%  100%  
+	    New File  		    1477	HIPTranLog20160614T113524Z  0%  100%  
+	    New File  		   25758	Product_20160610135155071_S03MT75B1.xml  0%  100%  
+	    New File  		    2107	Product_20160610135337548_GIFTBTD01.xml  0%  100%  
+	    New File  		       0	test.txt100%  
+	    New File  		       0	test2.xml100%  
+	    New File  		       0	test3.txt100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         0         0         0         0
+   Files :        18        18         0         0         0         0
+   Bytes :    45.3 k    45.3 k         0         0         0         0
+   Times :   0:00:04   0:00:04                       0:00:00   0:00:00
+
+
